@@ -1,10 +1,10 @@
 module github.com/abiosoft/colima
 
-go 1.20
+go 1.25.0
 
 require (
 	github.com/coreos/go-semver v0.3.1
-	github.com/fatih/color v1.16.0
+	github.com/fatih/color v1.19.0
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/rjeczalik/notify v0.9.3
 	github.com/sirupsen/logrus v1.9.3
@@ -23,8 +23,8 @@ require (
 require (
 	github.com/docker/go-units v0.5.0
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
-	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/mattn/go-colorable v0.1.14 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/sys v0.42.0 // indirect
 )
