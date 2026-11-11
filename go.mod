@@ -17,7 +17,7 @@ require github.com/stretchr/testify v1.8.4 // indirect
 
 require (
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0 // indirect
-	github.com/sevlyar/go-daemon v0.1.6
+	github.com/sevlyar/go-daemon v0.1.7
 )
 
 require (
@@ -26,5 +26,5 @@ require (
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/sys v0.17.0 // indirect
 )
